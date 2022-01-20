@@ -1,7 +1,7 @@
-import React from "react";
-import ReactDOM from 'react-dom'
+const React = require('react');
+const ReactDOM = require('react-dom');
 
-import App from "./app";
+const App = require('./app');
 
 ReactDOM.render(
   <React.StrictMode>
