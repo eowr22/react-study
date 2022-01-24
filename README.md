@@ -11,7 +11,7 @@
 - Babel이란?
   - JavaScript transpiler
     - 코드 변환 JS -> JS
-    - 특정 브라우저나 플랫폼이 ESNext(최신 문법)를 이해하지 못할 때, JavaScript코드를 호환되는 코드로 변환한다.
+    - 특정 브라우저나 플랫폼이 ES6+(최신 문법), ESNext(정식 버전이 아닌 출시될 다음 버전)를 이해하지 못할 때, JavaScript코드를 호환되는 코드로 변환한다.
       - TypeScript, JSX 등도 변환시켜 준다.
   - plugin : 코드 변환 규칙
   - preset : plugin의 모음
