@@ -1,6 +1,12 @@
 # 리액트 스터디
 
-1주차 - 2021/1/15
+#### [1주차](#1주차) - 2021/1/15
+    리액트 개발 환경 구성, Babel, Webpack
+#### [2주차](#2주차) - 2021/1/23
+    JS 심화
+
+---
+### 1주차
 - CRA(create-react-app) 사용하지 않고 리액트 개발 환경 구성하기
 - 참고 https://www.youtube.com/watch?v=TkMpKCJEFB4
 - 에러
@@ -27,7 +33,17 @@
     - `npx babel src/code.js` 설정한 plugin, preset 적용되어 cli에 출력
     - `npx babel src/code.js --out-file dist.js` 파일로 저장
     - `npx babel src/ --out-dir dist` 폴더 단위로 저장
+ ---
+### 2주차
+
+
+
+
+
+
+
+
+
 
   
-  
-  
+ 
