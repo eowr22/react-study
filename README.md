@@ -105,7 +105,7 @@
       - 재할당 금지
         - 한 번 참조값을 가지면 변경할 수 없다.
         - 하지만 객체의 경우 프로퍼티를 변경할 수 있다.
-##### ref - <a href="http://www.yes24.com/Product/Goods/92742567" target="_blank">모던 자바스크립 Deep Dive 15장</a>
+  ##### ref - <a href="http://www.yes24.com/Product/Goods/92742567" target="_blank">모던 자바스크립 Deep Dive 15장</a>
 
 
 
